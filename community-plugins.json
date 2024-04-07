@@ -11072,5 +11072,12 @@
     "author": "philips",
     "description": "View Supernote notes, generate markdown from note and capture screen mirror.",
     "repo": "philips/supernote-obsidian-plugin"
-  }
+  },
+  {
+    "id": "calllout-editor",
+    "name": "Callout Editor",
+    "author": "LLH",
+    "description": "Enhance callout of Obsidian with WYSIWYG real-time editing, featuring quick color selection and creation of cascading card layouts.",
+    "repo": "wnhllh/obsidian-callout-editor"
+  },	
 ]
